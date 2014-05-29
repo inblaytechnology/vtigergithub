@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
        echo '<p> Hello World </p>';
        echo '<br> this is new line see?</p>';
+       
+       echo '<br> this is second line whatch?</p>';
         ?>
     </body>
 </html>
